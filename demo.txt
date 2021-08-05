@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 edited by local branch2
-=======
 edited by local branch1
->>>>>>> localbranch1
